@@ -2,68 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4285a80-241c-473e-8db7-7361db70485f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="Z:/.idea/Z.iml" />
-      <change type="NEW" beforePath="" afterPath="Z:/backbone-install.sh" />
-      <change type="NEW" beforePath="" afterPath="Z:/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="Z:/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="Z:/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="Z:/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="Z:/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="Z:/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="Z:/public/img/ajax-loader.gif" afterPath="Z:/public/img/ajax-loader.gif" />
-      <change type="MODIFICATION" beforePath="Z:/public/img/glyphicons-halflings-white.png" afterPath="Z:/public/img/glyphicons-halflings-white.png" />
-      <change type="MODIFICATION" beforePath="Z:/public/img/glyphicons-halflings.png" afterPath="Z:/public/img/glyphicons-halflings.png" />
-      <change type="MODIFICATION" beforePath="Z:/public/img/icons-18-black.png" afterPath="Z:/public/img/icons-18-black.png" />
-      <change type="MODIFICATION" beforePath="Z:/public/img/icons-18-white.png" afterPath="Z:/public/img/icons-18-white.png" />
-      <change type="MODIFICATION" beforePath="Z:/public/img/icons-36-black.png" afterPath="Z:/public/img/icons-36-black.png" />
-      <change type="MODIFICATION" beforePath="Z:/public/img/icons-36-white.png" afterPath="Z:/public/img/icons-36-white.png" />
-      <change type="MODIFICATION" beforePath="Z:/public/img/jasmine_favicon.png" afterPath="Z:/public/img/jasmine_favicon.png" />
-      <change type="MODIFICATION" beforePath="Z:/.gitignore" afterPath="Z:/.gitignore" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/plugins/Backbone.validateAll.js" afterPath="Z:/public/js/libs/plugins/Backbone.validateAll.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/app/collections/Collection.js" afterPath="Z:/public/js/app/collections/Collection.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/app/config/DesktopInit.js" afterPath="Z:/public/js/app/config/DesktopInit.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/app/routers/DesktopRouter.js" afterPath="Z:/public/js/app/routers/DesktopRouter.js" />
-      <change type="MODIFICATION" beforePath="Z:/Gruntfile.js" afterPath="Z:/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="Z:/LICENSE-MIT" afterPath="Z:/LICENSE-MIT" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/app/config/MobileInit.js" afterPath="Z:/public/js/app/config/MobileInit.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/app/routers/MobileRouter.js" afterPath="Z:/public/js/app/routers/MobileRouter.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/app/models/Model.js" afterPath="Z:/public/js/app/models/Model.js" />
-      <change type="MODIFICATION" beforePath="Z:/README.markdown" afterPath="Z:/README.markdown" />
-      <change type="MODIFICATION" beforePath="Z:/README.md" afterPath="Z:/README.md" />
-      <change type="MODIFICATION" beforePath="Z:/public/SpecRunner.html" afterPath="Z:/public/SpecRunner.html" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/test/config/TestInit.js" afterPath="Z:/public/js/test/config/TestInit.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/app/views/View.js" afterPath="Z:/public/js/app/views/View.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/almond.js" afterPath="Z:/public/js/libs/almond.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/backbone.js" afterPath="Z:/public/js/libs/backbone.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/css/bootstrap.css" afterPath="Z:/public/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/plugins/bootstrap.js" afterPath="Z:/public/js/libs/plugins/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/css/commonstyles.css" afterPath="Z:/public/css/commonstyles.css" />
-      <change type="MODIFICATION" beforePath="Z:/public/css/desktop.css" afterPath="Z:/public/css/desktop.css" />
-      <change type="MODIFICATION" beforePath="Z:/public/css/desktop.min.css" afterPath="Z:/public/css/desktop.min.css" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/app/templates/heading.html" afterPath="Z:/public/js/app/templates/heading.html" />
-      <change type="MODIFICATION" beforePath="Z:/public/index.html" afterPath="Z:/public/index.html" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/jasmine-html.js" afterPath="Z:/public/js/libs/jasmine-html.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/plugins/jasmine-jquery.js" afterPath="Z:/public/js/libs/plugins/jasmine-jquery.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/css/jasmine.css" afterPath="Z:/public/css/jasmine.css" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/jasmine.js" afterPath="Z:/public/js/libs/jasmine.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/jquery.js" afterPath="Z:/public/js/libs/jquery.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/css/jquery.mobile.css" afterPath="Z:/public/css/jquery.mobile.css" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/jquery.mobile.js" afterPath="Z:/public/js/libs/jquery.mobile.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/jqueryui.js" afterPath="Z:/public/js/libs/jqueryui.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/kickstart.js" afterPath="Z:/public/js/kickstart.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/lodash.js" afterPath="Z:/public/js/libs/lodash.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/css/mobile.css" afterPath="Z:/public/css/mobile.css" />
-      <change type="MODIFICATION" beforePath="Z:/public/css/mobile.min.css" afterPath="Z:/public/css/mobile.min.css" />
-      <change type="MODIFICATION" beforePath="Z:/package.json" afterPath="Z:/package.json" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/r.js" afterPath="Z:/public/js/libs/r.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/require.js" afterPath="Z:/public/js/libs/require.js" />
-      <change type="MODIFICATION" beforePath="Z:/server/server.js" afterPath="Z:/server/server.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/test/specs/spec.js" afterPath="Z:/public/js/test/specs/spec.js" />
-      <change type="MODIFICATION" beforePath="Z:/public/js/libs/plugins/text.js" afterPath="Z:/public/js/libs/plugins/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/backbone.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365786595362" ignored="false" />
+    <file path="/Dummy.txt" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365852066891" ignored="false" />
     <file path="/a.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365607694224" ignored="false" />
     <file path="/a.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365607731153" ignored="false" />
     <file path="/a.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365607736616" ignored="false" />
@@ -92,106 +38,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://Z:/public/index.html">
+      <file leaf-file-name="backbone-install.sh" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backbone-install.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="40" selection-start="836" selection-end="836" vertical-scroll-proportion="-11.769231">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="desktop.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://Z:/public/css/desktop.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="1" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="heading.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://Z:/public/js/app/templates/heading.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="139" selection-end="139" vertical-scroll-proportion="-1.3076923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="commonstyles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://Z:/public/css/commonstyles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mobile.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://Z:/public/css/mobile.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kickstart.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://Z:/public/js/kickstart.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="14" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#999#1387#0" expanded="true" />
-                <element signature="e#1432#2109#0" expanded="true" />
-                <element signature="e#2155#2658#0" expanded="true" />
-                <element signature="e#2254#2398#0" expanded="true" />
-                <element signature="e#2497#2639#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DesktopInit.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://Z:/public/js/app/config/DesktopInit.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="49" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#1005#1035#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DesktopRouter.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://Z:/public/js/app/routers/DesktopRouter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="531" selection-end="531" vertical-scroll-proportion="0.55979204">
-              <folding>
-                <element signature="e#138#530#0" expanded="true" />
-                <element signature="e#229#286#0" expanded="true" />
-                <element signature="e#438#481#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="View.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://Z:/public/js/app/views/View.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#228#274#0" expanded="true" />
-                <element signature="e#346#494#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://Z:/public/SpecRunner.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="244" selection-end="244" vertical-scroll-proportion="-5.8846154">
+            <state line="23" column="0" selection-start="498" selection-end="498" vertical-scroll-proportion="0.677643">
               <folding />
             </state>
           </provider>
@@ -205,7 +55,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="Z:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -235,7 +85,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -266,97 +116,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Z" />
+              <option name="myItemId" value="backbone" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Z" />
+              <option name="myItemId" value="backbone" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Z:" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Z" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Z:" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Z" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Z:" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Z" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Z:" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Z" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Z:" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routers" />
+              <option name="myItemId" value="backbone" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -367,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.sourceCode.PHP" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="C:/SVN/mvcreloaded" />
     <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -390,6 +160,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b4285a80-241c-473e-8db7-7361db70485f" name="Default" comment="" />
@@ -399,15 +186,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18036287" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18463181" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -417,6 +203,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21453694" sideWeight="0.99819165" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -484,130 +271,10 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://Z:/public/js/test/config/TestInit.js">
+    <entry file="file://$PROJECT_DIR$/backbone-install.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="41" selection-start="2104" selection-end="2104" vertical-scroll-proportion="0.0">
+        <state line="23" column="0" selection-start="498" selection-end="498" vertical-scroll-proportion="0.677643">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/css/jasmine.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="83" selection-start="1258" selection-end="1258" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/js/test/specs/spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="1898" selection-end="1898" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/js/app/models/Model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/js/app/config/MobileInit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/SpecRunner.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="244" selection-end="244" vertical-scroll-proportion="-5.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/css/mobile.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/css/commonstyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/css/desktop.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="1" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/js/app/templates/heading.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="139" selection-end="139" vertical-scroll-proportion="-1.3076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="40" selection-start="836" selection-end="836" vertical-scroll-proportion="-11.769231">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/js/app/views/View.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#228#274#0" expanded="true" />
-            <element signature="e#346#494#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/js/kickstart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#999#1387#0" expanded="true" />
-            <element signature="e#1432#2109#0" expanded="true" />
-            <element signature="e#2155#2658#0" expanded="true" />
-            <element signature="e#2254#2398#0" expanded="true" />
-            <element signature="e#2497#2639#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/js/app/config/DesktopInit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="49" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#1005#1035#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://Z:/public/js/app/routers/DesktopRouter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="531" selection-end="531" vertical-scroll-proportion="0.55979204">
-          <folding>
-            <element signature="e#138#530#0" expanded="true" />
-            <element signature="e#229#286#0" expanded="true" />
-            <element signature="e#438#481#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
