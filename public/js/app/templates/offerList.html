@@ -1,0 +1,19 @@
+<h3>Offer List</h3>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+        </tr>
+    </thead>
+    <tbody>
+      <% offers.each(function(offer){  %>
+        <tr>
+            <td><%= offer.get('id') %></td>
+            <td><%= offer.get('title') %></td>
+            <td><a href="/#/edit/<%= offer.get('id') %>" class="btn pull-right btn-primary"> <i class="icon icon-white icon-edit"></i></a>
+             <a href="/#/delete/<%= offer.get('id') %>" class="btn pull-right btn-danger delete"> <i class="icon icon-white icon-remove"></i></a></td>
+        </tr>
+      <% }) ; %>
+    </tbody>
+</table>

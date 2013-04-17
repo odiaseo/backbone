@@ -1,14 +1,18 @@
-// Model.js
-// --------
 define(["jquery", "backbone"],
 
-    function($, Backbone) {
+    function ($, Backbone) {
 
         // Creates a new Backbone Model class object
         var Model = Backbone.Model.extend({
+            url : '/getOffer/',
+            default: {
+                startDate: '2-13-04-16',
+                endDate: '2013-10-10',
+                popularity: 1
+            },
 
             // Model Constructor
-            initialize: function() {
+            initialize: function () {
 
             },
 
@@ -18,7 +22,7 @@ define(["jquery", "backbone"],
             },
 
             // Gets called automatically by Backbone when the set and/or save methods are called (Add your own logic)
-            validate: function(attrs) {
+            validate: function (attrs) {
 
             }
 
@@ -28,5 +32,4 @@ define(["jquery", "backbone"],
         return Model;
 
     }
-
 );

@@ -1,8 +1,8 @@
-define(["jquery", "backbone", "models/Model", "text!templates/heading.html"],
+define(["jquery", "backbone", "text!templates/index.html"],
 
-    function($, Backbone, Model, template){
+    function($, Backbone,  template){
         var View = Backbone.View.extend({
-            el: ".example",
+            el: ".content",
             initialize: function() {
                 this.render();
             },

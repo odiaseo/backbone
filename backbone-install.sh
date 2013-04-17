@@ -13,7 +13,7 @@ sudo npm install nodemon -g
 sudo npm install -g grunt-cli
 
 #clone project boiler plate 
-sudo git clone https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate.git
+git clone https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate.git
 cd Backbone-Require-Boilerplate
 sudo npm install
  
