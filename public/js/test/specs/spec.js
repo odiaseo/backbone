@@ -18,7 +18,7 @@ define(["jquery", "backbone", "text!templates/index.html", "views/IndexView","mo
 
                 });
 
-                it("should contain the correct view element", function() {
+                it("that I have an offer", function() {
 
                     this.router = new DesktopRouter();
 

@@ -3,13 +3,8 @@ define(["jquery", "backbone"],
     function ($, Backbone) {
 
         // Creates a new Backbone Model class object
-        var Model = Backbone.Model.extend({
-            url : '/getOffer/',
-            default: {
-                startDate: '2-13-04-16',
-                endDate: '2013-10-10',
-                popularity: 1
-            },
+        var OfferModel = Backbone.Model.extend({
+            url: '/getOffer/',
 
             // Model Constructor
             initialize: function () {
@@ -18,7 +13,8 @@ define(["jquery", "backbone"],
 
             // Default values for all of the Model attributes
             defaults: {
-
+                endDate: '2013-10-10',
+                popularity: 1
             },
 
             // Gets called automatically by Backbone when the set and/or save methods are called (Add your own logic)
@@ -29,7 +25,7 @@ define(["jquery", "backbone"],
         });
 
         // Returns the Model class
-        return Model;
+        return OfferModel;
 
     }
 );

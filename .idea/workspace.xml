@@ -2,32 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4285a80-241c-473e-8db7-7361db70485f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/views/OfferAddView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/views/OfferEditView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/views/OfferListView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/models/OfferModel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/templates/offerAdd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/templates/offerEdit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/templates/offerList.html" />
-      <change type="DELETED" beforePath="F:\projects\backbone\public\js\app\routers\MobileRouter.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/routers/DesktopRouter.js" afterPath="$PROJECT_DIR$/public/js/app/routers/DesktopRouter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.markdown" afterPath="$PROJECT_DIR$/README.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backbone-install.sh" afterPath="$PROJECT_DIR$/backbone-install.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/kickstart.js" afterPath="$PROJECT_DIR$/public/js/kickstart.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="$PROJECT_DIR$/npm-debug.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/server.js" afterPath="$PROJECT_DIR$/server/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/test/specs/spec.js" afterPath="$PROJECT_DIR$/public/js/test/specs/spec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="F:\projects\backbone\public\js\app\collections\Collection.js" afterPath="$PROJECT_DIR$/public/js/app/collections/OfferCollection.js" />
-      <change type="MOVED" beforePath="F:\projects\backbone\public\js\app\models\Model.js" afterPath="$PROJECT_DIR$/public/js/app/models/IndexModel.js" />
-      <change type="MOVED" beforePath="F:\projects\backbone\public\js\app\views\View.js" afterPath="$PROJECT_DIR$/public/js/app/views/IndexView.js" />
+      <change type="NEW" beforePath="" afterPath="Z:/server/config/mail.js" />
+      <change type="NEW" beforePath="" afterPath="Z:/server/models/offer.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/img/ajax-loader.gif" afterPath="Z:/public/img/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="Z:/public/img/glyphicons-halflings-white.png" afterPath="Z:/public/img/glyphicons-halflings-white.png" />
+      <change type="MODIFICATION" beforePath="Z:/public/img/glyphicons-halflings.png" afterPath="Z:/public/img/glyphicons-halflings.png" />
+      <change type="MODIFICATION" beforePath="Z:/public/img/icons-18-black.png" afterPath="Z:/public/img/icons-18-black.png" />
+      <change type="MODIFICATION" beforePath="Z:/public/img/icons-18-white.png" afterPath="Z:/public/img/icons-18-white.png" />
+      <change type="MODIFICATION" beforePath="Z:/public/img/icons-36-black.png" afterPath="Z:/public/img/icons-36-black.png" />
+      <change type="MODIFICATION" beforePath="Z:/public/img/icons-36-white.png" afterPath="Z:/public/img/icons-36-white.png" />
+      <change type="MODIFICATION" beforePath="Z:/public/img/jasmine_favicon.png" afterPath="Z:/public/img/jasmine_favicon.png" />
+      <change type="MODIFICATION" beforePath="Z:/.gitignore" afterPath="Z:/.gitignore" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/plugins/Backbone.validateAll.js" afterPath="Z:/public/js/libs/plugins/Backbone.validateAll.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/app/config/DesktopInit.js" afterPath="Z:/public/js/app/config/DesktopInit.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/app/config/DesktopInit.min.js" afterPath="Z:/public/js/app/config/DesktopInit.min.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/app/routers/DesktopRouter.js" afterPath="Z:/public/js/app/routers/DesktopRouter.js" />
+      <change type="MODIFICATION" beforePath="Z:/Gruntfile.js" afterPath="Z:/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="Z:/LICENSE-MIT" afterPath="Z:/LICENSE-MIT" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/app/config/MobileInit.js" afterPath="Z:/public/js/app/config/MobileInit.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/app/config/MobileInit.min.js" afterPath="Z:/public/js/app/config/MobileInit.min.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/app/collections/OfferCollection.js" afterPath="Z:/public/js/app/collections/OfferCollection.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/app/views/OfferListView.js" afterPath="Z:/public/js/app/views/OfferListView.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/app/models/OfferModel.js" afterPath="Z:/public/js/app/models/OfferModel.js" />
+      <change type="MODIFICATION" beforePath="Z:/README.markdown" afterPath="Z:/README.markdown" />
+      <change type="MODIFICATION" beforePath="Z:/README.md" afterPath="Z:/README.md" />
+      <change type="MODIFICATION" beforePath="Z:/public/SpecRunner.html" afterPath="Z:/public/SpecRunner.html" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/test/config/TestInit.js" afterPath="Z:/public/js/test/config/TestInit.js" />
+      <change type="MODIFICATION" beforePath="Z:/.idea/Z.iml" afterPath="Z:/.idea/Z.iml" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/almond.js" afterPath="Z:/public/js/libs/almond.js" />
+      <change type="MODIFICATION" beforePath="Z:/backbone-install.sh" afterPath="Z:/backbone-install.sh" />
+      <change type="MODIFICATION" beforePath="Z:/.idea/backbone.iml" afterPath="Z:/.idea/backbone.iml" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/backbone.js" afterPath="Z:/public/js/libs/backbone.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/css/bootstrap.css" afterPath="Z:/public/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/plugins/bootstrap.js" afterPath="Z:/public/js/libs/plugins/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/css/commonstyles.css" afterPath="Z:/public/css/commonstyles.css" />
+      <change type="MODIFICATION" beforePath="Z:/public/css/desktop.css" afterPath="Z:/public/css/desktop.css" />
+      <change type="MODIFICATION" beforePath="Z:/public/css/desktop.min.css" afterPath="Z:/public/css/desktop.min.css" />
+      <change type="MODIFICATION" beforePath="Z:/.idea/encodings.xml" afterPath="Z:/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/app/templates/heading.html" afterPath="Z:/public/js/app/templates/heading.html" />
+      <change type="MODIFICATION" beforePath="Z:/public/index.html" afterPath="Z:/public/index.html" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/jasmine-html.js" afterPath="Z:/public/js/libs/jasmine-html.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/plugins/jasmine-jquery.js" afterPath="Z:/public/js/libs/plugins/jasmine-jquery.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/css/jasmine.css" afterPath="Z:/public/css/jasmine.css" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/jasmine.js" afterPath="Z:/public/js/libs/jasmine.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/jquery.js" afterPath="Z:/public/js/libs/jquery.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/css/jquery.mobile.css" afterPath="Z:/public/css/jquery.mobile.css" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/jquery.mobile.js" afterPath="Z:/public/js/libs/jquery.mobile.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/jqueryui.js" afterPath="Z:/public/js/libs/jqueryui.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/kickstart.js" afterPath="Z:/public/js/kickstart.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/lodash.js" afterPath="Z:/public/js/libs/lodash.js" />
+      <change type="MODIFICATION" beforePath="Z:/.idea/misc.xml" afterPath="Z:/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="Z:/public/css/mobile.css" afterPath="Z:/public/css/mobile.css" />
+      <change type="MODIFICATION" beforePath="Z:/public/css/mobile.min.css" afterPath="Z:/public/css/mobile.min.css" />
+      <change type="MODIFICATION" beforePath="Z:/.idea/modules.xml" afterPath="Z:/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="Z:/package.json" afterPath="Z:/package.json" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/r.js" afterPath="Z:/public/js/libs/r.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/require.js" afterPath="Z:/public/js/libs/require.js" />
+      <change type="MODIFICATION" beforePath="Z:/.idea/scopes/scope_settings.xml" afterPath="Z:/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="Z:/server/server.js" afterPath="Z:/server/server.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/test/specs/spec.js" afterPath="Z:/public/js/test/specs/spec.js" />
+      <change type="MODIFICATION" beforePath="Z:/public/js/libs/plugins/text.js" afterPath="Z:/public/js/libs/plugins/text.js" />
+      <change type="MODIFICATION" beforePath="Z:/.idea/vcs.xml" afterPath="Z:/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="Z:/.idea/workspace.xml" afterPath="Z:/.idea/workspace.xml" />
     </list>
     <ignored path=".iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366165332091" ignored="false" />
+    <file path="/Dummy.txt" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366207295601" ignored="false" />
     <file path="/a.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365607694224" ignored="false" />
     <file path="/a.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365607731153" ignored="false" />
     <file path="/a.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365607736616" ignored="false" />
@@ -35,62 +75,72 @@
     <file path="/index.html" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366182014500" ignored="false" />
     <file path="C:/projects/behat/features/ls.feature" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365614832591" ignored="false" />
     <file path="/SpecRunner.html" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365781696726" ignored="false" />
-    <file path="/kickstart.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366170543806" ignored="false" />
+    <file path="/kickstart.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366217810954" ignored="false" />
     <file path="/commonstyles.css" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365782445513" ignored="false" />
-    <file path="/DesktopRouter.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366184731929" ignored="false" />
+    <file path="/DesktopRouter.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366202355782" ignored="false" />
     <file path="/sidebar.html" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365859177231" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/application/modules/admin/models/AffiliateProduct.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366008327051" ignored="false" />
+    <file path="Z:/../zendify/rmszend/application/modules/admin/models/AffiliateProduct.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366008327051" ignored="false" />
     <file path="/AffiliateProduct.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366004993320" ignored="false" />
     <file path="/footer.phtml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365984161716" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/application/layouts/scripts/partials/footer.phtml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365984174132" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/public_html/media/js/general-scripts.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365984201659" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/library/Rhema/Widget/Controller/Affiliate.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366097114388" ignored="false" />
+    <file path="Z:/../zendify/rmszend/application/layouts/scripts/partials/footer.phtml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365984174132" ignored="false" />
+    <file path="Z:/../zendify/public_html/media/js/general-scripts.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365984201659" ignored="false" />
+    <file path="Z:/../zendify/rmszend/library/Rhema/Widget/Controller/Affiliate.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366097114388" ignored="false" />
     <file path="/Affiliate.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366097112867" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/doctrine/data/sql/0014.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366005961490" ignored="false" />
+    <file path="Z:/../zendify/rmszend/doctrine/data/sql/0014.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366005961490" ignored="false" />
     <file path="/0014.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365988092201" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/doctrine/data/sql/0015.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365987762437" ignored="false" />
+    <file path="Z:/../zendify/rmszend/doctrine/data/sql/0015.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365987762437" ignored="false" />
     <file path="/0015.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365987762437" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/sites/vabooseuk/config/site.ini" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365992485653" ignored="false" />
+    <file path="Z:/../zendify/rmszend/sites/vabooseuk/config/site.ini" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365992485653" ignored="false" />
     <file path="/site.ini" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365989006647" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/application/configs/application.ini" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366000140756" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/library/Rhema/View.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365993438720" ignored="false" />
+    <file path="Z:/../zendify/rmszend/application/configs/application.ini" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366000140756" ignored="false" />
+    <file path="Z:/../zendify/rmszend/library/Rhema/View.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365993438720" ignored="false" />
     <file path="/View.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365993335057" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/application/modules/cron/controllers/IndexController.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366146988071" ignored="false" />
+    <file path="Z:/../zendify/rmszend/application/modules/cron/controllers/IndexController.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366146988071" ignored="false" />
     <file path="/IndexController.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366099477927" ignored="false" />
     <file path="/Service.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365997420939" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/library/Rhema/Model/Service.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365997460746" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/application/modules/admin/models/AffiliateBanner.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366001954081" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/doctrine/data/sql/0016.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366008623762" ignored="false" />
+    <file path="Z:/../zendify/rmszend/library/Rhema/Model/Service.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1365997460746" ignored="false" />
+    <file path="Z:/../zendify/rmszend/application/modules/admin/models/AffiliateBanner.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366001954081" ignored="false" />
+    <file path="Z:/../zendify/rmszend/doctrine/data/sql/0016.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366008623762" ignored="false" />
     <file path="/0010.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366007430980" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/doctrine/data/sql/0010.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366007430980" ignored="false" />
+    <file path="Z:/../zendify/rmszend/doctrine/data/sql/0010.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366007430980" ignored="false" />
     <file path="/0016.sql" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366008623762" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/library/Rhema/Widget/Controller/Google.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366096150088" ignored="false" />
+    <file path="Z:/../zendify/rmszend/library/Rhema/Widget/Controller/Google.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366096150088" ignored="false" />
     <file path="/Google.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366096030648" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/application/configs/default-site-config.ini" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366096277260" ignored="false" />
+    <file path="Z:/../zendify/rmszend/application/configs/default-site-config.ini" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366096277260" ignored="false" />
     <file path="/default-site-config.ini" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366096277260" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/library/Rhema/Widget/View/Google/adsense-large-scraper.phtml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366096607144" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/library/Rhema/Widget/View/Affiliate/related-items.phtml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366098562926" ignored="false" />
+    <file path="Z:/../zendify/rmszend/library/Rhema/Widget/View/Google/adsense-large-scraper.phtml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366096607144" ignored="false" />
+    <file path="Z:/../zendify/rmszend/library/Rhema/Widget/View/Affiliate/related-items.phtml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366098562926" ignored="false" />
     <file path="/related-items.phtml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366098033790" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/application/modules/admin/models/AffiliateRetailer.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366097072538" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/library/Rhema/Widget/View/Google/partials/adsense-large-scraper.phtml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366097971748" ignored="false" />
+    <file path="Z:/../zendify/rmszend/application/modules/admin/models/AffiliateRetailer.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366097072538" ignored="false" />
+    <file path="Z:/../zendify/rmszend/library/Rhema/Widget/View/Google/partials/adsense-large-scraper.phtml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366097971748" ignored="false" />
     <file path="/adsense-large-scraper.phtml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366097491783" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/doctrine/schema/affiliate.yml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366098900473" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/application/modules/admin/models/Base/MobilePhone.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366098989825" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/application/modules/admin/models/Base/AffiliateRetailer.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366098989826" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/application/modules/admin/models/Base/AffiliateProduct.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366098989826" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/library/Rhema/Controller/Action/Helper/FeedImport.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366099031514" ignored="false" />
-    <file path="$PROJECT_DIR$/../zendify/rmszend/library/Rhema/Util/String.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366100735896" ignored="false" />
+    <file path="Z:/../zendify/rmszend/doctrine/schema/affiliate.yml" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366098900473" ignored="false" />
+    <file path="Z:/../zendify/rmszend/application/modules/admin/models/Base/MobilePhone.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366098989825" ignored="false" />
+    <file path="Z:/../zendify/rmszend/application/modules/admin/models/Base/AffiliateRetailer.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366098989826" ignored="false" />
+    <file path="Z:/../zendify/rmszend/application/modules/admin/models/Base/AffiliateProduct.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366098989826" ignored="false" />
+    <file path="Z:/../zendify/rmszend/library/Rhema/Controller/Action/Helper/FeedImport.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366099031514" ignored="false" />
+    <file path="Z:/../zendify/rmszend/library/Rhema/Util/String.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366100735896" ignored="false" />
     <file path="/String.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366100564852" ignored="false" />
     <file path="/offerEdit.html" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366184056236" ignored="false" />
     <file path="/offerList.html" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366184585188" ignored="false" />
-    <file path="/OfferModel.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366183415756" ignored="false" />
-    <file path="/OfferCollection.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366174629241" ignored="false" />
+    <file path="/OfferModel.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366217406704" ignored="false" />
+    <file path="/OfferCollection.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366202464476" ignored="false" />
     <file path="/spec.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366171888719" ignored="false" />
-    <file path="/OfferListView.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366184504459" ignored="false" />
-    <file path="/server.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366184120662" ignored="false" />
+    <file path="/OfferListView.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366202665734" ignored="false" />
+    <file path="/server.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366218558051" ignored="false" />
     <file path="/OfferEditView.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366183935652" ignored="false" />
     <file path="/offerAdd.html" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366184217837" ignored="false" />
-    <file path="/OfferAddView.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366184349801" ignored="false" />
+    <file path="/OfferAddView.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366218094707" ignored="false" />
+    <file path="C:/projects/behat/features/bootstrap/RegisterContext.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366193894677" ignored="false" />
+    <file path="/RegisterContext.php" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366193890522" ignored="false" />
+    <file path="C:/projects/behat/features/register.feature" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366194126448" ignored="false" />
+    <file path="/register.feature" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366194125819" ignored="false" />
+    <file path="C:/projects/behat/features/offer.feature" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366199800427" ignored="false" />
+    <file path="/offer.feature" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366195700547" ignored="false" />
+    <file path="/backbone-install.sh" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366203560707" ignored="false" />
+    <file path="/Offer.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366213901051" ignored="false" />
+    <file path="/DesktopInit.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366214346158" ignored="false" />
+    <file path="/offer.js" changelist="b4285a80-241c-473e-8db7-7361db70485f" time="1366215509207" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,129 +160,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="OfferListView.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/app/views/OfferListView.js">
+      <file leaf-file-name="server.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://Z:/server/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
+            <state line="21" column="33" selection-start="611" selection-end="611" vertical-scroll-proportion="0.12393682">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="offerList.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/app/templates/offerList.html">
+      <file leaf-file-name="mail.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://Z:/server/config/mail.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="12" selection-start="650" selection-end="650" vertical-scroll-proportion="-11.115385">
+            <state line="13" column="1" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OfferEditView.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/app/views/OfferEditView.js">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://Z:/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="44" selection-start="890" selection-end="890" vertical-scroll-proportion="0.0">
+            <state line="32" column="26" selection-start="1336" selection-end="1336" vertical-scroll-proportion="-20.923077">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OfferAddView.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/app/views/OfferAddView.js">
+      <file leaf-file-name="offer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://Z:/server/models/offer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="16" selection-start="904" selection-end="945" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DesktopRouter.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/js/app/routers/DesktopRouter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="37" selection-start="1437" selection-end="1437" vertical-scroll-proportion="0.77816904">
+            <state line="15" column="10" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="OfferModel.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/app/models/OfferModel.js">
+        <entry file="file://Z:/public/js/app/models/OfferModel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="43" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="34" selection-start="857" selection-end="857" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/SpecRunner.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="7" selection-start="221" selection-end="221" vertical-scroll-proportion="-3.9230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spec.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/test/specs/spec.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="58" selection-start="3387" selection-end="3387" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="28" selection-start="1619" selection-end="1626" vertical-scroll-proportion="-24.423077">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndexView.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/app/views/IndexView.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="13" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="offerEdit.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/app/templates/offerEdit.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="-1.3076923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="offerAdd.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/app/templates/offerAdd.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="43" selection-start="496" selection-end="496" vertical-scroll-proportion="-9.153846">
+            <state line="22" column="13" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/app/templates/index.html">
+        <entry file="file://Z:/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="38" selection-start="42" selection-end="42" vertical-scroll-proportion="-0.65384614">
+            <state line="33" column="29" selection-start="1372" selection-end="1372" vertical-scroll-proportion="-16.615385">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kickstart.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://Z:/public/js/kickstart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="9" selection-start="801" selection-end="801" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OfferAddView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://Z:/public/js/app/views/OfferAddView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="13" selection-start="959" selection-end="959" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DesktopInit.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://Z:/public/js/app/config/DesktopInit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="26" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -246,7 +249,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="Z:/" />
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -256,31 +259,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/public/js/app/templates/index.html" />
-        <option value="$PROJECT_DIR$/public/js/app/views/IndexView.js" />
-        <option value="$PROJECT_DIR$/public/js/kickstart.js" />
-        <option value="$PROJECT_DIR$/public/js/test/specs/spec.js" />
-        <option value="$PROJECT_DIR$/Gruntfile.js" />
-        <option value="$PROJECT_DIR$/public/js/app/collections/OfferCollection.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/public/js/app/models/OfferModel.js" />
-        <option value="$PROJECT_DIR$/public/js/app/views/OfferEditView.js" />
-        <option value="$PROJECT_DIR$/public/js/app/templates/offerEdit.html" />
-        <option value="$PROJECT_DIR$/server/server.js" />
-        <option value="$PROJECT_DIR$/public/js/app/templates/offerAdd.html" />
-        <option value="$PROJECT_DIR$/public/js/app/views/OfferAddView.js" />
-        <option value="$PROJECT_DIR$/public/js/app/templates/offerList.html" />
-        <option value="$PROJECT_DIR$/public/js/app/views/OfferListView.js" />
-        <option value="$PROJECT_DIR$/public/js/app/routers/DesktopRouter.js" />
+        <option value="Z:/public/js/app/templates/offerAdd.html" />
+        <option value="Z:/public/js/app/templates/offerList.html" />
+        <option value="Z:/public/js/test/specs/spec.js" />
+        <option value="Z:/public/js/app/routers/DesktopRouter.js" />
+        <option value="Z:/public/js/app/collections/OfferCollection.js" />
+        <option value="Z:/public/js/app/views/OfferListView.js" />
+        <option value="Z:/backbone-install.sh" />
+        <option value="Z:/server/models/Offer.js" />
+        <option value="Z:/public/js/app/config/DesktopInit.js" />
+        <option value="Z:/server/config/mail.js" />
+        <option value="Z:/package.json" />
+        <option value="Z:/server/models/offer.js" />
+        <option value="Z:/public/js/kickstart.js" />
+        <option value="Z:/public/js/app/models/OfferModel.js" />
+        <option value="Z:/public/js/app/views/OfferAddView.js" />
+        <option value="Z:/server/server.js" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-3" />
+    <option name="width" value="1166" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -312,27 +314,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z:" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z:" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -342,11 +344,29 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z:" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Z" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Z:" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -356,55 +376,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="specs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z:" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -415,18 +391,14 @@
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z:" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -448,11 +420,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z:" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -467,44 +439,14 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
+              <option name="myItemId" value="Z:" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -524,58 +466,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backbone" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="collections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -585,21 +475,10 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zendify" />
+    <property name="last_opened_file_path" value="C:/projects/behat" />
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-  </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="fd89726e-d8be-4a09-ad93-1c42525fb2f8">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -649,15 +528,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-3" y="0" width="1166" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33522084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21357064" sideWeight="0.99819165" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19103523" sideWeight="0.78642935" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29166666" sideWeight="0.99534345" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -666,6 +544,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21357064" sideWeight="0.99819165" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -736,116 +615,110 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/js/app/models/IndexModel.js">
+    <entry file="file://Z:/node_modules/grunt-contrib-requirejs/docs/overview.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="32" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/node_modules/grunt-contrib-requirejs/docs/requirejs-examples.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://Z:/public/js/app/routers/DesktopRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="14" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/libs/backbone.js">
+    <entry file="file://Z:/backbone-install.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="851" column="28" selection-start="31222" selection-end="31222" vertical-scroll-proportion="0.41122565">
+        <state line="10" column="103" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/SpecRunner.html">
+    <entry file="file://Z:/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="7" selection-start="221" selection-end="221" vertical-scroll-proportion="-3.9230769">
+        <state line="12" column="30" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/templates/index.html">
+    <entry file="file://Z:/public/js/libs/backbone.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="38" selection-start="42" selection-end="42" vertical-scroll-proportion="-0.65384614">
+        <state line="72" column="16" selection-start="2526" selection-end="2526" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://Z:/public/js/app/config/DesktopInit.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="28" selection-start="1619" selection-end="1626" vertical-scroll-proportion="-24.423077">
+        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/views/IndexView.js">
+    <entry file="file://Z:/public/js/app/config/DesktopInit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+        <state line="18" column="26" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/models/OfferModel.js">
+    <entry file="file://Z:/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="43" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+        <state line="32" column="26" selection-start="1336" selection-end="1336" vertical-scroll-proportion="-20.923077">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/test/specs/spec.js">
+    <entry file="file://Z:/server/models/offer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="58" selection-start="3387" selection-end="3387" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="34" selection-start="857" selection-end="857" vertical-scroll-proportion="0.0">
+        <state line="15" column="10" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/templates/offerEdit.html">
+    <entry file="file://Z:/server/config/mail.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="-1.3076923">
+        <state line="13" column="1" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/templates/offerAdd.html">
+    <entry file="file://Z:/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="43" selection-start="496" selection-end="496" vertical-scroll-proportion="-9.153846">
+        <state line="33" column="29" selection-start="1372" selection-end="1372" vertical-scroll-proportion="-16.615385">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/views/OfferEditView.js">
+    <entry file="file://Z:/public/js/kickstart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="44" selection-start="890" selection-end="890" vertical-scroll-proportion="0.0">
+        <state line="26" column="9" selection-start="801" selection-end="801" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/templates/offerList.html">
+    <entry file="file://Z:/public/js/app/models/OfferModel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="12" selection-start="650" selection-end="650" vertical-scroll-proportion="-11.115385">
+        <state line="22" column="13" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/views/OfferListView.js">
+    <entry file="file://Z:/public/js/app/views/OfferAddView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
+        <state line="28" column="13" selection-start="959" selection-end="959" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/views/OfferAddView.js">
+    <entry file="file://Z:/server/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="16" selection-start="904" selection-end="945" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/routers/DesktopRouter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="37" selection-start="1437" selection-end="1437" vertical-scroll-proportion="0.77816904">
+        <state line="21" column="33" selection-start="611" selection-end="611" vertical-scroll-proportion="0.12393682">
           <folding />
         </state>
       </provider>

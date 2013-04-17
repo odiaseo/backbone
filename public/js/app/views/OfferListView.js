@@ -13,7 +13,7 @@ define(["jquery", "backbone", "models/OfferModel", "collections/OfferCollection"
 
             render: function () {
                 var offers = new OfferList();
-
+                offers.url += '/' + this.options.page ;
                 offers.fetch({
                     success: function () {
                         var html = _.template(template, {offers: offers});

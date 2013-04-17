@@ -1,7 +1,14 @@
 var express = require("express"),
     http = require("http"),
+    mongoose = require('mongoose'),
     port = (process.env.PORT || 8001),
+    dbPath = 'mongodb://localhost/nodebackbone',
     server = module.exports = express();
+
+// Import the models
+var models = {
+    Offer: require("./models/offer")(mongoose)
+};
 
 server.configure(function () {
     server.use(express["static"](__dirname + "/../public"));
@@ -12,28 +19,15 @@ server.configure(function () {
 
     server.use(express.bodyParser());
     server.use(server.router);
+    mongoose.connect(dbPath, function onMongooseError(err) {
+        if (err) throw err;
+    });
 });
 
 
-server.get('/getOfferList', function (req, res) {
-    res.send([
-        {
-            'id': 1,
-            title: ' test offer one',
-            offerType: 'deal',
-            startDate: '2-13-04-16',
-            endDate: '2013-10-10',
-            popularity: 1
-        },
-        {
-            'id': 2,
-            title: ' test offer two',
-            offerType: 'deal',
-            startDate: '2-13-04-16',
-            endDate: '2013-10-10',
-            popularity: 1
-        }
-    ]);
+server.get('/getOfferList/:page?', function (req, res) {
+    var offers = models.Offer.find();
+    res.send(offers);
 });
 
 server.get('/getOffer/:id', function (req, res) {
@@ -51,11 +45,13 @@ server.get('/getOffer/:id', function (req, res) {
 });
 
 server.post('/updateOffer', function (req, res) {
-    res.send('Offer created');
+    var out = models.Offer.addOffer(req.body);
+    res.send(out);
 });
 
 server.put('/updateOffer', function (req, res) {
-    res.send('Offer updated');
+    var out = Offer.addOffer();
+    res.send(out);
 });
 
 server.delete('/updateOffer', function (req, res) {

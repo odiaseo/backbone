@@ -17,6 +17,7 @@ require.config({
       "routers": "app/routers",
       "templates": "app/templates",
       "views": "app/views"
+
   },
 
   // Sets the configuration for your third party scripts that are not AMD compatible

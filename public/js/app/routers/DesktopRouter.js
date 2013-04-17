@@ -10,14 +10,14 @@ define(["jquery", "backbone", "models/OfferModel", "collections/OfferCollection"
             // All of your Backbone Routes (add more)
             routes: {
                 "": "index",
-                "list": "list",
+                "list(/:page)": "list",
                 "edit/:id": "edit",
                 "add": "add",
                 "delete/:id": "deleteOffer"
             },
 
             changeView: function (view) {
-                if (null != this.currentView) {
+                if (null !== this.currentView) {
                     this.currentView.undelegateEvents();
                 }
                 this.currentView = view;
@@ -32,8 +32,9 @@ define(["jquery", "backbone", "models/OfferModel", "collections/OfferCollection"
                 this.changeView(new OfferEditView({id: id}));
             },
 
-            list: function () {
-                this.changeView(new OfferListView());
+            list: function (page) {
+                var pageNumber = page || 1;
+                this.changeView(new OfferListView({page: pageNumber}));
             },
 
             index: function () {

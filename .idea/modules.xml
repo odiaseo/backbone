@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://Z:/.idea/Z.iml" filepath="Z:/.idea/Z.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/backbone.iml" filepath="$PROJECT_DIR$/.idea/backbone.iml" />
+      <module fileurl="file://Z:/.idea/backbone.iml" filepath="Z:/.idea/backbone.iml" />
     </modules>
   </component>
 </project>
